@@ -1,0 +1,28 @@
+{
+  "index.html": {
+    "resources": [
+      "css/index.css",
+      "js/mui.min.js",
+      "fonts/mui.ttf",
+      "css/mui.min.css",
+      "image/ýu.png",
+      "image/\u0011ý.png",
+      "image/\bý:ý9.png",
+      "image/ýý.png",
+      "image/ýu.png",
+      "image/ýý.png",
+      "image/\u0011ý.png",
+      "image/\bý:ý9.png",
+      "img/\u0011ý.png",
+      "img/ýu.png",
+      "img/ýý.png",
+      "img/\bý:ý9.png",
+      "img/me.png",
+      "img/index.png",
+      "img/caopan.png",
+      "img/heyue.png",
+      "refresh.html"
+    ],
+    "refer": []
+  }
+}

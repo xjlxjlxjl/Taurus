@@ -1,0 +1,29 @@
+*,*:after,*:before{
+	margin: 0;
+	padding: 0;
+}
+.mt-20{
+	margin-top: 5px;
+}
+.mui-bar-tab{
+	font-size: 15px;
+}
+.mui-bar-tab span{
+    position: relative;
+    top: -5px;
+}
+.mui-content{
+	padding-bottom: 58px;
+}
+
+.Main2{
+	margin-top: 20px;
+	background-color: #FFFFFF;
+	padding: 20px;
+	text-align: center;
+}
+.main2_div{
+	width: 30%;
+	border: 1px solid;
+	display: inline-block;
+}
